@@ -10,6 +10,9 @@
 .venv
 .vscode
 
+# Ignore model file
+.joblib
+
 #data file
 # not ignoring as it was not imported from a website
 
